@@ -6,9 +6,20 @@ and also you will learn while loving it !!(;
 
 I love it so much I am editing a copy as a Pull Request<strong> </p>
 
-यह मेरे भययोग्य इंद्रधनुष कविता के लिए एक रेपो है! आप निश्चित रूप से यह प्यार करने के लिए जा रहे हैं!
+यह मेरे भययोग्य इंद्रधनुष कविता के लिए एक रेपो है! आप निश्चित रूप से यह पसंद करोगे!
+
+
+ਇਹ ਮੇਰੀ ਸਤਰੰਗੀ ਕਵਿਤਾ ਲਈ ਸਿਖਲਾਈ ਰੈਪੋ ਹੈ.
+ਤੁਸੀਂ ਨਿਸ਼ਚਤ ਰੂਪ ਵਿੱਚ ਇਸਨੂੰ ਪਿਆਰ ਕਰੋਗੇ !!
+
+
+Ini adalah repo pelatihan untuk puisi pelangi saya.
+Anda pasti akan menyukainya !!
 
 這是我的真棒彩虹詩的回購!你肯定會喜歡的!
+
+Este es un repositorio de entrenamiento para mi poema arcoíris.
+¡Definitivamente te encantará!
 
 Это репо для моей удивительной радуги поэзии! Вы определенно будете любить его!
 
@@ -19,6 +30,9 @@ Dies ist ein Repo für meine geniale Regenbogen Poesie! Du wirst es auf jeden Fa
 Dit is een repo voor mijn ontzagwekkende regenboog poëzie! U gaat absoluut van het houden!
 
 これは私の素晴らしい虹の詩のためのレポです!あなたは間違いなくそれを愛するつもりです!
+
+นี่คือ repo การฝึกอบรมสำหรับบทกวีสายรุ้งของฉัน
+คุณจะต้องหลงรักแน่นอน !!
 
 Questo è un repo per la mia poesia arcobaleno impressionante! Si sta sicuramente andando ad amarla!
 
